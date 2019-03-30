@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.13)  30 MAR 2019 02:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.13)  30 MAR 2019 22:30
 entering extended mode
 **./Report.tex
 (Report.tex
@@ -467,34 +467,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/solom/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
 <block_diagaram.png, id=7, 1092.08pt x 703.62875pt>
 File: block_diagaram.png Graphic file (type png)
 <use block_diagaram.png>
-Package pdftex.def Info: block_diagaram.png  used on input line 17.
+Package pdftex.def Info: block_diagaram.png  used on input line 44.
 (pdftex.def)             Requested size: 597.50787pt x 384.97855pt.
-<curcuit_schematic.png, id=8, 2385.91376pt x 998.73125pt>
+
+[2]
+<curcuit_schematic.png, id=14, 2385.91376pt x 998.73125pt>
 File: curcuit_schematic.png Graphic file (type png)
 <use curcuit_schematic.png>
-Package pdftex.def Info: curcuit_schematic.png  used on input line 22.
+Package pdftex.def Info: curcuit_schematic.png  used on input line 49.
 (pdftex.def)             Requested size: 597.50787pt x 250.1089pt.
-
-[2 <./block_diagaram.png (PNG copy)>] [3 <./curcuit_schematic.png (PNG copy)>]
-(Report.aux) ) 
+ [3 <./block_diagaram.png (PNG copy)>] [4 <./curcuit_schematic.png (PNG copy)>]
+ (Report.aux) ) 
 Here is how much of TeX's memory you used:
- 1735 strings out of 493303
- 24330 string characters out of 3129784
- 78626 words of memory out of 3000000
- 5289 multiletter control sequences out of 15000+200000
- 5756 words of font info for 21 fonts, out of 3000000 for 9000
+ 1752 strings out of 493303
+ 24513 string characters out of 3129784
+ 81626 words of memory out of 3000000
+ 5300 multiletter control sequences out of 15000+200000
+ 8194 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,484b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/solom/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb><C:/Users/solom/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/solom/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Report.pdf (3 pages, 88978 bytes).
+ 41i,7n,25p,484b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/solom/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/solom/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/solom/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/solom/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/solo
+m/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on Report.pdf (4 pages, 109404 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
